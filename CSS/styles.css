@@ -1,0 +1,201 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h2 {
+
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+label {
+    margin: 10px;
+}
+#to {
+    margin-left: 19px;
+}
+
+#UV {
+    margin: 10px;
+}
+
+#answer {
+    margin: 10px;
+    
+}
+#error{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 30px;
+    
+}
+
+.tab-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 30px;
+    padding-left: 20px;
+
+}
+
+.btn1 {
+    margin-left: 20px;
+}
+
+.btn2 {
+    margin-left: 60px;
+}
+
+
+.length-to {
+    margin-top: 15px;
+}
+
+
+
+.about-img {
+    height: 358px;
+}
+
+.about-section {
+    padding: 100px 0;
+}
+
+.about-content {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.about-content h2 {
+    margin-bottom: 30px;
+}
+
+#tv {
+    margin: 10px;
+}
+
+#temp2 {
+    margin-left: 19px;
+}
+
+#tempout {
+    margin: 10px;
+}
+
+.temp-to {
+    margin-top: 15px;
+}
+
+#av {
+    margin: 10px;
+}
+
+#area2 {
+    margin-left: 19px;
+}
+
+#areaout {
+    margin: 10px;
+}
+
+.area-to {
+    margin-top: 15px;
+}
+
+#vv {
+    margin: 10px;
+}
+
+#volume2 {
+    margin-left: 19px;
+}
+
+#volout {
+    margin: 10px;
+}
+
+.volume-to {
+    margin-top: 15px;
+}
+
+#wv {
+    margin: 10px;
+}
+
+#weight2 {
+    margin-left: 19px;
+}
+
+#w8out {
+    margin: 10px;
+}
+
+.weight-to {
+    margin-top: 15px;
+}
+
+#timev {
+    margin: 10px;
+}
+
+#time2 {
+    margin-left: 19px;
+}
+
+#timeout {
+    margin: 10px;
+}
+
+.time-to {
+    margin-top: 15px;
+}
+
+.img-logo {
+    width: 150px;
+    height: 70px;
+}
+
+.hr-style {
+   margin-top: 150px;
+}
+
+.footer-icon {
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    
+}
+
+
+
+footer {
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.gh-img {
+    margin-right: 6%;
+}
+
+.icon-link {
+    text-decoration: none;
+}
+
+.collapse .navbar-nav .nav-item > a  {
+    color: white;
+}
